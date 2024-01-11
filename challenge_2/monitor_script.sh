@@ -1,7 +1,7 @@
 #!/bin/bash
 
-RECEIVER_EMAIL=anubhavlinus@gmail.com  # Change this to required receiver email address
-SENDER_EMAIL=b21087@students.iitmandi.ac.in # Change this to your sender email address
+RECEIVER_EMAIL=saic@students.iitmandi.ac.in  # Change this to required receiver email address
+SENDER_EMAIL=******** # Add your sender email address
 
 # array of "Actions" which will trigger the email 
 # Action has been explained in the report of this challenge
