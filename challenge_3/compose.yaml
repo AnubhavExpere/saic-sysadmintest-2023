@@ -1,0 +1,15 @@
+services:
+  saic-website: 
+    image: saic-website:v1
+    ports: 
+      -80:80
+    # volumes:
+    #   -./backup-vol /home
+    # command: sh -c 'tar -cvjf /backup/config.tar.bz2 -C /config ./'
+
+  # github-languages:
+  #   images: github-languages:v1
+  #   ports:
+  #     - 3000:3000
+
+      
